@@ -7,6 +7,31 @@
 * Changelog Format: Read from newest to oldest
 
 ## Version 0.1
+
+### Updated components
+--------Mar 4, 2018-------
+* Updated mtce to include size, group, status - QL
+* Updated itemadd to include size, group, status - QL
+* Updated Tasks.php to include validation for status - QL
+
+### New components
+--------Feb 28, 2018--------
+* Added itemadd.php - NC
+* Added itemedit.php - NC
+* Added itemnav.php - QL
+* Added Roles.php - QL
+* Added itemadd.php - QL
+
+### Updated components
+--------Feb 28,2018-------
+* Updated the models to fix the bug that one of value will be null - NC
+* Updated mtce controller with functions that allow for add, edit, delete - NC
+* Updated mtce for showing specific maintenance pages - QL
+* Updated the by_priority view with checkbox for the owner to remove - NC
+* Updated the View controller so it allows for the deleting of tasks only if they are an owner - NC
+* Updated mtce to work with pagination - QL
+* Updated menubar.hp to include new user roles - QL
+
 ### New components
 --------Feb 14, 2018--------
 * Added Helpme.php controller that post a job ad - NC
