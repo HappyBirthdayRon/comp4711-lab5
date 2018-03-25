@@ -8,6 +8,17 @@
 
 ## Version 0.1
 
+### Updated components
+--------Mar 11, 2018-------
+* Implemented save to xml for tasks- QL
+* Implemented load from xml for tasks - QL
+* Changed tasks.xml to method 1 - QL
+* Fixed Tasks.php to prevent Task::app error - QL
+
+### New components
+--------Mar 20, 2018-------
+* Added XML data - NC
+
 ### New components
 --------Mar 11, 2018-------
 * Added travis.yml for build compatibility - QL
